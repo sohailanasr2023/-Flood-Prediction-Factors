@@ -1,6 +1,6 @@
 MIT License
 
-Copyright © 2024 Ahmed Adel Sayed
+Copyright © 2024 Ahmed Adel Sayed , sohaila nasr mohamed
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this Code and associated documentation files (the "Code"), to deal
